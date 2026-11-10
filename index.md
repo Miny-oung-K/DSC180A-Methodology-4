@@ -12,7 +12,7 @@ title: Methodology Assignment 4
 
 **What is the most interesting topic covered in your domain this quarter?**
 
-The most interesting topic to me is how sound can be broken down, reconstructed, and controlled through movement. In Harmonic Lab, I explored how changing frequencies, amplitudes, and harmonics changes waveforms and vowel sounds. As a violinist, I enjoyed connecting these ideas to Air Violin, where hand and facial gestures control musical sounds and timbre. Sound Interpolation Explorer was especially interesting because it let me explore a continuous transition between two recorded mouth sounds, such as an open-mouth "AH" and a closed-mouth "MM." Using AI to help build and revise these interfaces has allowed me to turn musical ideas into interactive experiments.
+The most interesting topic to me is how sound can be broken down, reconstructed, and controlled through movement. While creating Harmonic Lab, I explored how changing frequencies, amplitudes, and harmonics changes waveforms and vowel sounds. As a violinist, I enjoyed connecting these ideas to Air Violin, where hand and facial gestures control musical sounds and timbre. Sound Interpolation Explorer was especially interesting because it let me explore a continuous transition between two recorded mouth sounds, such as an open-mouth "AH" and a closed-mouth "MM." Using AI to help build and revise these interfaces has allowed me to turn musical ideas into interactive experiments.
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
@@ -20,7 +20,7 @@ For Quarter 2, I would like to investigate whether more detailed full-body track
 
 **What is a potential change you'd make to the approach taken in your current Quarter 1 Project?**
 
-One change I would make is to connect the strongest parts of my three prototypes into one interface. Harmonic Lab helped me understand sound structure, Air Violin explored camera-based control, and Sound Interpolation Explorer focused on transitions between recorded sounds. Combining these components would let me test how movement controls interpolation directly. I would also add a calibration step and a visible landmark overlay so users can see which movements the camera detects. Based on my experience revising Air Violin when certain hand gestures were difficult to capture, I would prioritize a small number of dependable controls before adding more joints and more complicated mappings.
+One change I would make is to connect the strongest parts of my three prototypes into one interface. Combining these components would let me test how movement controls interpolation directly. I would also add a calibration step and a visible landmark overlay so users can see which movements the camera detects. Based on my experience revising Air Violin when certain hand gestures were difficult to capture, I would prioritize a small number of dependable controls before adding more joints and more complicated mappings.
 
 **What other techniques would you be interested in using in your project?**
 
